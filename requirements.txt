@@ -1,3 +1,10 @@
 pytest
 pytest-html
 coverage
+black
+flake8
+isort
+mypy
+pytest-cov
+pytest-mock
+faker
