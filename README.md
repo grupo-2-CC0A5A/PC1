@@ -26,12 +26,12 @@ pip install -r requirements.txt
 - Linux
 
 ```sh
-python3 src/main.py
+python3 -m src.main
 ```
 - Windows
 
 ```bat
-python src\main.py
+python -m src.main
 ```
 
 
