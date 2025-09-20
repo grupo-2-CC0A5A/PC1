@@ -1,4 +1,4 @@
-from item import ItemDB
+from src.item import ItemDB
 
 class Store:
     def __init__(self, name, items=None):

@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from dataclasses import field
 from dataclasses import asdict
 
-from db import DB
+from src.db import DB
 
 @dataclass
 class Item:

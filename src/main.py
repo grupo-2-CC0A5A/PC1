@@ -1,5 +1,5 @@
-from store import Store
-from item import Item
+from src.store import Store
+from src.item import Item
 
 def main():
     my_store = Store("Tienda 1")
